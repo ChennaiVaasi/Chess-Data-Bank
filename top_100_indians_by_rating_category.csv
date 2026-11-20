@@ -1,0 +1,301 @@
+rank_category,fideid,rating_type,name,tournaments,total_gain,max_single_gain,periods
+1,537079182,Standard,"Chelluri, Navish",14,521.0799999999999,150.81,11
+2,88125866,Standard,"Jatin, Arepalli",42,510.12,107.2,19
+3,429030102,Standard,"Anirban, Sahoo",15,495.48,146.4,11
+4,33418985,Standard,"Akshaya, Vignesh M",19,471.38,153.6,13
+5,88155706,Standard,"Akilan, M S",37,456.4,126.8,20
+6,48709310,Standard,"Salik, Nawaz Manihaar",13,449.2,79.6,10
+7,25998641,Standard,"Akhil, Repalle",13,449.0,155.2,11
+8,429027390,Standard,"Prakhar, Singh Gosain",18,438.08,103.2,15
+9,537031376,Standard,"Praneet, Sinha",13,436.8,114.8,11
+10,48751774,Standard,"Bhavya, Kumar Moolchandani",9,435.6,119.2,8
+11,33413703,Standard,"Arixander, Johny",17,433.3,114.0,13
+12,48732001,Standard,"Keerthan, Ayyam K",17,433.08000000000004,144.02,13
+13,88185621,Standard,"Divam, Talwar",26,426.87,111.2,17
+14,429055750,Standard,"Mahadev, J S",16,426.45,81.84,11
+15,33330611,Standard,"Isshaan, A",14,422.0,92.0,13
+16,48700789,Standard,"Divyasree, Kollipara",12,418.01,119.6,8
+17,429000173,Standard,"Alladi, Srivatsan",17,417.2,101.6,11
+18,48723223,Standard,"Nakshatra, Gumudavelly",32,416.88,129.69,18
+19,33410364,Standard,"Veer, Rakeshkumar Patel",16,411.08,160.4,15
+20,48772992,Standard,"Jayanth, Venkatesh",19,410.91999999999996,159.2,13
+21,33384479,Standard,"Prajith, J",21,409.64,99.6,13
+22,429055946,Standard,"Sharjeel, Hassan Shaik",11,408.15999999999997,86.4,9
+23,48766925,Standard,"Arohan, Dey",28,407.86,74.8,20
+24,25745999,Standard,"Kanishkaraj, V",21,406.49,135.2,13
+25,531005926,Standard,"Karthik, Nagam",21,405.59999999999997,116.8,14
+26,429013739,Standard,"Ishan, Dutta",16,405.56,82.8,14
+27,88118568,Standard,"Ashwath, Ram U S",14,405.54,98.0,12
+28,429097380,Standard,"Kavin, Mathiyazhagan",14,405.0,93.2,9
+29,39973492,Standard,"Kamesh, Kavin",17,400.48,170.4,11
+30,25612220,Standard,"Rwitik, Chakraborty",8,400.0,101.2,8
+31,88165337,Standard,"Adwait, Darshan B",13,396.8,118.4,11
+32,48769460,Standard,"Shah, Marmik",7,395.6,189.6,6
+33,33422508,Standard,"Shivarshi, Chakrabarti",16,395.34000000000003,83.6,13
+34,88140989,Standard,"Timmaraju, Venkata Sathvik",26,395.33,87.6,19
+35,33442215,Standard,"Srijon, Saha",19,392.88,121.6,15
+36,88183610,Standard,"Pamidi, Jaswanth",30,392.3,92.4,19
+37,48729558,Standard,"Manush, Patel",12,390.14,138.8,10
+38,48726087,Standard,"Ishaan, Bhansali",27,387.84999999999997,121.6,19
+39,33472564,Standard,"Ayaan, Phutane",21,386.68,67.9,15
+40,531066828,Standard,"Kavish, Saxena",11,386.16,140.8,7
+41,25798537,Standard,"Alaukik, Sinha",17,385.99,142.4,12
+42,33342300,Standard,"Arjun, Singh",24,385.41,107.6,13
+43,48732796,Standard,"Arav, Majumdar",6,385.2,121.6,5
+44,25123521,Standard,"Srinika, S",25,384.21999999999997,103.6,17
+45,33383502,Standard,"Rudra, Shakti Madan",12,380.5,76.4,10
+46,25952900,Standard,"Badole, Shaunak",16,377.1,109.6,12
+47,88131823,Standard,"Sairam, Bala M",29,370.57,106.2,18
+48,429095565,Standard,"Dishant, Bansal",13,369.91999999999996,75.2,11
+49,48712728,Standard,"Mugdha, Keot",16,369.2,122.0,13
+50,88110010,Standard,"Neev, Sajeev",24,367.71000000000004,156.8,16
+51,48709972,Standard,"Shibantak, Saha",16,367.24,92.8,13
+52,429033888,Standard,"Imadabattini, Joel",12,366.03000000000003,168.8,10
+53,429053277,Standard,"Prijesh, Veliyathuparambil",20,365.59999999999997,82.8,16
+54,48737240,Standard,"Pranav, Varshan A S",35,365.58000000000004,116.0,21
+55,429079268,Standard,"Jayesh, Mishra",22,365.04,91.2,14
+56,25149830,Standard,"Aarav, Arpit Shah",5,364.4,120.4,5
+57,33331634,Standard,Saksham,11,364.15,114.4,9
+58,25773151,Standard,"Divesh, V",20,363.81,100.7,11
+59,33324662,Standard,"Pradiksha, P S",23,361.84000000000003,79.2,15
+60,429014336,Standard,"Anish, Abhijeet Jawalkar",24,361.18,103.2,17
+61,25985230,Standard,"Harshadeep, Deka",13,360.31,118.18,9
+62,88158942,Standard,"Ansh, Sunilkumar Maheshwari",13,359.8,120.0,9
+63,33493030,Standard,"Divith, Reddy Adulla",18,357.79,156.0,14
+64,33418950,Standard,"Akil, Sethu G",24,357.2,75.6,17
+65,48731722,Standard,"Gurusharan, P",19,357.08,90.8,15
+66,88150755,Standard,"Shivin, K",18,356.75,77.6,11
+67,48701050,Standard,"Christy, George",23,356.52,123.6,17
+68,429099862,Standard,"Saketh, Jijesh",35,354.95,101.2,18
+69,33435642,Standard,"Dhyaan, Patel",10,354.75,136.0,9
+70,33472742,Standard,"Soumyadeep, Nath",22,353.24,118.0,16
+71,88137341,Standard,"Hari, Prasath R",26,352.84,96.0,14
+72,48719285,Standard,"Shivay, Singh",22,352.81,76.3,15
+73,88107574,Standard,"Havish, U",10,352.40000000000003,132.4,8
+74,531083730,Standard,"Sai, Sujan P U",23,351.6,106.8,16
+75,33490945,Standard,"Manav, Kumar",17,351.04,116.0,15
+76,88110249,Standard,"Koshivarddh, Senthil Kumar",20,350.8,93.6,17
+77,33411468,Standard,"Akshaya, Narahari",13,350.4,133.2,11
+78,88103382,Standard,"Adharva, P T",35,349.68,68.25,17
+79,33376085,Standard,"Reyansh, Jagnani",16,349.2,118.0,14
+80,429003717,Standard,"Prajit, K",16,348.4,100.8,14
+81,537014137,Standard,"Pidugu, Sanjay Sahul",25,347.98,80.8,16
+82,33404542,Standard,"Varchas, Krishna Jayaraman",33,347.51,82.32,19
+83,45054908,Standard,"Riyan, Amit Shah",6,346.84,135.0,4
+84,429013151,Standard,"Pratham, Amit Warang",11,346.8,139.6,9
+85,531070744,Standard,"Snehit, Raj Singh",19,345.6,97.6,16
+86,531037801,Standard,"Vijith, A",22,345.2,110.8,18
+87,33421919,Standard,"Sai, Prudhvi Eati",6,344.79999999999995,203.2,6
+88,88171752,Standard,"Viraat, Jalan",20,344.23,124.8,14
+89,88167780,Standard,"Harshith, Surianarayanan",25,343.6,71.2,19
+90,48737470,Standard,"Abhishek, Narayana Subramanian",19,343.14,118.0,14
+91,33397694,Standard,"Vivaan, Sardana",18,342.05,85.4,14
+92,366108182,Standard,"Ar, Saisharvesh",26,341.64,82.8,18
+93,88123243,Standard,"Shreyan, Dey",21,341.6,74.8,17
+94,25106821,Standard,"Kolla, Bhaavan",31,341.34000000000003,124.0,19
+95,25155431,Standard,"Parambrata, Sarkar",19,341.33,96.4,15
+96,25944860,Standard,"Souhardya, Prosad Sinha",8,341.2,64.8,8
+97,48737356,Standard,"Tamizh, Amudhan S",23,341.02,138.32,15
+98,88150062,Standard,"Rohith, S",17,340.68,88.4,11
+99,33308179,Standard,"Ramanuj, Mishra",27,340.40999999999997,131.2,19
+100,48723240,Standard,"Rohit, Vijay",26,338.48,103.6,17
+1,33306710,Rapid,"Kathir, Kaman T",11,518.8,189.6,7
+2,48775878,Rapid,"Mathan, G",3,496.4,209.2,2
+3,33436398,Rapid,"Rejath, Renjith",9,490.92,112.8,6
+4,33399344,Rapid,"Advaith, Asokumar",20,476.78000000000003,105.0,13
+5,48758078,Rapid,"Karthick, Raja P",17,469.0,153.6,12
+6,429009650,Rapid,"Muthukumar, M",21,447.9,79.53,11
+7,537002180,Rapid,"Siddharth, Anuj",10,440.4,115.2,9
+8,33487618,Rapid,"Rayan, Merchant",20,418.4,115.6,15
+9,33325090,Rapid,"Tanmay, Rajbongshi",9,417.59999999999997,183.6,8
+10,25129970,Rapid,"Aditya, Sur",11,415.6,116.8,8
+11,429041724,Rapid,"Shreyansh, Das",13,414.64,80.0,8
+12,429097410,Rapid,"Rakesh, Mathiyazhagan",12,408.8,119.2,10
+13,48727393,Rapid,"Naiyayike, Biswas",4,407.2,140.8,3
+14,88171078,Rapid,"Yaalvendhan, Vellaichamy",5,394.4,124.0,4
+15,25611151,Rapid,"Jaiveer, Mahendru",22,392.7,96.8,13
+16,33305099,Rapid,"Tanna, Krish Alpeshbhai",8,380.0,120.8,6
+17,33420157,Rapid,"Nimalan, A",8,379.6,114.4,5
+18,429017270,Rapid,"Lathik, Raam",14,377.84000000000003,111.6,11
+19,88133613,Rapid,"Divyansh, Singh Katharria",10,377.2,105.6,9
+20,48704695,Rapid,"Mohagaonkar, Rutam",17,375.21,109.43,12
+21,366108360,Rapid,"Sinha, Keshav",7,372.0,66.4,7
+22,25917676,Rapid,"Bhuvan, Suhas Shitole",22,370.72,73.6,14
+23,48752479,Rapid,"Sameer, Singh Shergill",14,369.36,95.2,11
+24,33435936,Rapid,"Shitiz, Prasad",15,367.5,136.0,11
+25,531023070,Rapid,"Nirmal, D Ansera",5,366.8,138.4,4
+26,33445680,Rapid,"Lakshmanan, Natesan",7,365.2,141.2,6
+27,429008883,Rapid,"Saksham, Bhardwaj",18,365.2,94.4,13
+28,25924230,Rapid,"Yuvanesh, A",8,363.6,108.4,7
+29,366108182,Rapid,"Ar, Saisharvesh",9,363.41,126.8,6
+30,48764957,Rapid,"Nandakumar, Veeresh Sulikeri",12,363.37,131.6,9
+31,88123464,Rapid,"Karthick, Babu",17,363.2,92.4,16
+32,33421277,Rapid,"Salunke, Siddhant",9,363.2,92.8,6
+33,25116886,Rapid,"Lakshit, Pusri",4,357.59999999999997,156.0,4
+34,33316953,Rapid,"Athvik, M",26,355.35999999999996,145.2,13
+35,48759619,Rapid,"Adhrit, Das Purkayastha",9,352.4,139.2,8
+36,25977776,Rapid,"Sharnarthi, Shlok",20,350.89,130.4,12
+37,531033571,Rapid,"Aharnish, Nanda",13,349.2,124.4,9
+38,25762540,Rapid,"Jathar, Soham",14,346.4,102.8,10
+39,25739522,Rapid,"Ajjesh, J",24,346.3,70.4,17
+40,429097380,Rapid,"Kavin, Mathiyazhagan",22,344.4,149.6,13
+41,33435642,Rapid,"Dhyaan, Patel",7,342.18,72.4,4
+42,48701050,Rapid,"Christy, George",8,340.8,99.2,6
+43,25112333,Rapid,"Vansh, Jajoo",14,340.76,54.4,11
+44,547017023,Rapid,"Salai, Vinnavan B",12,339.2,98.8,9
+45,25135791,Rapid,"Phal, Satyam",15,338.2,115.6,10
+46,33479194,Rapid,"Dhanvi, Ayinaparthi",14,335.6,84.0,12
+47,33410364,Rapid,"Veer, Rakeshkumar Patel",5,335.2,120.0,4
+48,25180371,Rapid,"Krishoth, P",6,335.13,96.8,4
+49,48704580,Rapid,"Kodre, Tirth",18,333.6,73.2,11
+50,33412090,Rapid,"Deepak, Raj Hari",6,333.2,103.6,6
+51,33322791,Rapid,"Samarth, Jain",11,333.2,98.0,11
+52,48700649,Rapid,"Chanda, Ujan",7,332.74,96.0,6
+53,33397651,Rapid,"Nishant, Abhijeet Jawalkar",8,331.6,86.0,7
+54,33460540,Rapid,"Anay, Banka",8,330.8,80.0,7
+55,33427283,Rapid,"Kilari, Jyothir Adithya",6,330.8,133.6,6
+56,366108932,Rapid,"Chaudhari, Ashish",23,328.6,94.4,17
+57,25912410,Rapid,"Gaikwad, Manas",16,328.42,68.4,8
+58,48729558,Rapid,"Manush, Patel",9,328.4,80.0,6
+59,33302561,Rapid,"Dharsh, M",6,326.9,111.72,5
+60,25639110,Rapid,"Borgaonkar, Akshay",11,325.8,126.4,9
+61,48769460,Rapid,"Shah, Marmik",9,325.2,119.6,8
+62,25193244,Rapid,"Polekar, Atharva",16,324.8,92.4,14
+63,33442304,Rapid,"Monodeep, Dhar",9,324.8,88.8,7
+64,33404542,Rapid,"Varchas, Krishna Jayaraman",6,322.8,108.0,6
+65,25744755,Rapid,"Sambhav, Setiya",4,322.79999999999995,132.0,4
+66,33437211,Rapid,"Garv, Devnani",13,322.6,81.6,7
+67,48768626,Rapid,"Pandey, Vihan",13,321.6,81.2,9
+68,33364389,Rapid,"Sajeev, R R",11,321.6,67.6,8
+69,33463247,Rapid,"Viaan, Samir Makhani",6,321.2,120.0,5
+70,48744786,Rapid,"Tharun, Rajasekar",13,320.8,80.8,11
+71,33438080,Rapid,"Thavish, S",5,320.4,146.8,4
+72,88167780,Rapid,"Harshith, Surianarayanan",13,320.0,102.4,11
+73,33436665,Rapid,"Prabhu, Arjun",14,319.6,82.0,12
+74,531038034,Rapid,"Abhinava, P",14,319.4,100.4,11
+75,25124544,Rapid,"Khanak, Paharia",14,318.4,91.2,13
+76,33364494,Rapid,"Selwin, Samuel S",7,318.0,122.4,5
+77,88119360,Rapid,"Amogh, Agrawal",6,317.97999999999996,106.02,5
+78,531076106,Rapid,"Trivedi, Dhwanit Darshan",7,316.4,139.6,7
+79,33417814,Rapid,"Indrajit, Majumdar",9,316.18,87.2,5
+80,531065970,Rapid,"Adreesh, Dey",6,316.0,109.2,6
+81,48737356,Rapid,"Tamizh, Amudhan S",8,316.0,114.0,6
+82,33479941,Rapid,"Mukil, R",11,315.6,82.0,9
+83,537014137,Rapid,"Pidugu, Sanjay Sahul",7,314.0,86.0,7
+84,25926870,Rapid,"Prakhar, Tripathi",18,313.8,123.2,12
+85,48784567,Rapid,"Archita, Agrawal",13,313.2,89.2,10
+86,88132242,Rapid,"Arnav, Goyal",9,313.2,76.8,8
+87,39973492,Rapid,"Kamesh, Kavin",10,312.58000000000004,83.2,8
+88,88123570,Rapid,"Shaurya, Chaudhary",12,312.12,157.6,8
+89,33382859,Rapid,"Aarav, Sarbalia",12,311.9,99.2,6
+90,48709972,Rapid,"Shibantak, Saha",8,311.6,153.2,6
+91,33417946,Rapid,"Pranav, Ganesh Prabhu",9,311.59999999999997,60.8,8
+92,33485860,Rapid,"Joshua, Mark Telles",12,310.40000000000003,96.0,9
+93,33379246,Rapid,"Venkata, Naga Karthik Malladi",11,310.32,94.8,9
+94,25140728,Rapid,"Bhosale, Abhay Namdev",8,310.0,71.2,6
+95,25909100,Rapid,"Vihaan, Venu Gopal",4,310.0,126.4,3
+96,33446172,Rapid,"Vaibhav, Sanganabashettar",9,307.3,105.2,7
+97,48737470,Rapid,"Abhishek, Narayana Subramanian",6,307.2,148.0,5
+98,33427860,Rapid,"Jagajit, Sinha",6,306.8,150.4,5
+99,48731722,Rapid,"Gurusharan, P",8,306.4,105.2,8
+100,531019730,Rapid,"Praneeth, H S",12,305.21,114.0,9
+1,48772992,Blitz,"Jayanth, Venkatesh",7,561.34,202.8,5
+2,33408947,Blitz,"Aarit, Kapil",9,474.56,192.28,7
+3,33409293,Blitz,"Sai, Abhinav Kuchibhotla",12,460.0,171.6,10
+4,33352550,Blitz,"Sidharth, Mohan",7,447.05,226.4,5
+5,33492700,Blitz,"Vineet, Nayak",5,428.4,198.4,5
+6,33404542,Blitz,"Varchas, Krishna Jayaraman",5,417.2,135.2,4
+7,33310688,Blitz,"Avirat, Chauhan",7,392.5,120.8,6
+8,531033571,Blitz,"Aharnish, Nanda",7,385.6,172.8,6
+9,88108368,Blitz,"Sattwik, Swain",4,374.8,160.4,3
+10,48725161,Blitz,"Arav, Vinod",5,373.20000000000005,145.2,4
+11,25975005,Blitz,"Nijesh, R",6,370.8,162.0,5
+12,88196305,Blitz,"Saksham, Darshan",5,369.6,116.0,5
+13,25693506,Blitz,"Utkrisht, Tuli",4,358.8,129.6,4
+14,48725170,Blitz,"Arush, A",4,357.6,186.8,3
+15,25183206,Blitz,"Soham, Roy",7,352.79999999999995,205.2,7
+16,48726087,Blitz,"Ishaan, Bhansali",5,341.08000000000004,174.24,4
+17,33473129,Blitz,"Tushar, Agarwalla",6,338.48,132.0,5
+18,429041724,Blitz,"Shreyansh, Das",5,336.9,219.6,4
+19,25646893,Blitz,"Madhavansh, Mittal",4,335.20000000000005,160.8,4
+20,25739530,Blitz,"Saisarvesh, S",4,334.4,200.4,4
+21,25974840,Blitz,"Darsh, Ilwadi",8,333.2,169.2,7
+22,25926870,Blitz,"Prakhar, Tripathi",14,331.08,115.2,11
+23,25197118,Blitz,"Vihaan, Aadarsh Lobo",7,324.36,124.0,6
+24,25968483,Blitz,"Paramarth, Mitra",6,317.2,92.0,6
+25,33306710,Blitz,"Kathir, Kaman T",6,314.94,115.6,5
+26,48754056,Blitz,"Saransh, Goel",7,312.8,129.2,6
+27,25957180,Blitz,"Haridev, S",3,312.5,139.6,2
+28,88131823,Blitz,"Sairam, Bala M",6,308.96000000000004,100.0,5
+29,33372764,Blitz,"Aarav, Gupta",5,308.8,100.4,5
+30,531096379,Blitz,"Bhuvan, Hrishikesh Konnur",6,308.4,108.8,6
+31,33423415,Blitz,"Vishwaditya, Awasthi",4,303.6,171.2,3
+32,429053374,Blitz,"Aadarsh, Kumar Beriha",5,301.2,106.0,5
+33,48795402,Blitz,"Dhayagude, Aarav",5,299.2,214.0,5
+34,25943570,Blitz,"Agnivo, Chakraborty",6,298.79999999999995,131.2,6
+35,429027390,Blitz,"Prakhar, Singh Gosain",8,296.8,130.8,7
+36,25739522,Blitz,"Ajjesh, J R",5,293.6,98.8,4
+37,48784567,Blitz,"Archita, Agrawal",9,290.8,100.0,8
+38,33379246,Blitz,"Venkata, Naga Karthik Malladi",4,289.6,122.0,4
+39,25798537,Blitz,"Alaukik, Sinha",5,288.8,140.0,4
+40,25677217,Blitz,"Arpith, S Bijoy",7,286.08,92.4,6
+41,33405980,Blitz,"Druvesh, Dondapati",5,286.0,144.8,5
+42,33325090,Blitz,"Tanmay, Rajbongshi",5,284.4,126.0,5
+43,531013716,Blitz,"Prasidh, Ambati",2,283.6,154.0,2
+44,33402850,Blitz,"Ayaan, Goel",7,280.40000000000003,101.2,7
+45,33478902,Blitz,"Atiksh, Thakur",3,278.79999999999995,163.2,3
+46,33417814,Blitz,"Indrajit, Majumdar",4,278.4,139.2,4
+47,33397694,Blitz,"Vivaan, Sardana",4,277.2,116.8,4
+48,48708607,Blitz,"Chaitanya, V Gaonkar",4,275.20000000000005,194.8,4
+49,25912410,Blitz,"Gaikwad, Manas",6,274.8,76.4,5
+50,429073111,Blitz,"Lakshith, Gutti",9,274.8,111.2,9
+51,33367469,Blitz,Shreyas,6,273.2,124.0,5
+52,33417873,Blitz,"Malvin, Joshua",2,272.0,190.0,2
+53,33423300,Blitz,"Swaraj, Mishra",5,271.6,185.6,5
+54,25180240,Blitz,"Thanish, S A",6,269.90000000000003,126.4,5
+55,25696106,Blitz,"Ghadge, Harsh",4,267.6,101.2,4
+56,33424586,Blitz,"Aarav, Arora",6,267.2,96.4,6
+57,33460655,Blitz,"Aarav, Arora",3,265.2,110.8,3
+58,33392978,Blitz,"Sri, Sai Vedaansh P",5,264.4,113.2,5
+59,33322791,Blitz,"Samarth, Jain",9,262.64,70.4,8
+60,25129970,Blitz,"Aditya, Sur",6,262.4,79.6,5
+61,88127141,Blitz,"Yash, Ranjan",3,261.6,143.6,3
+62,33324182,Blitz,"Mehul, S U",3,261.16,163.6,2
+63,25665600,Blitz,"Achilles, M",2,258.8,162.0,2
+64,33477400,Blitz,"Keshav, Sivaramakrishnan",5,258.2,202.4,4
+65,25113909,Blitz,"Ravada, Karthikesava",5,257.46999999999997,67.6,3
+66,25745999,Blitz,"Kanishkaraj, V",3,257.23,100.05,1
+67,33411735,Blitz,"Mokshith, Pasupulety",5,257.2,97.2,5
+68,48752479,Blitz,"Sameer, Singh Shergill",9,256.4,147.2,9
+69,33330530,Blitz,"Vakada, Sriram Jayin",5,256.0,92.4,5
+70,25998641,Blitz,"Akhil, Repalle",6,256.0,79.2,6
+71,88132242,Blitz,"Arnav, Goyal",7,255.60000000000002,88.4,6
+72,25725513,Blitz,"Gokul, G",7,254.79999999999998,99.6,6
+73,25123289,Blitz,"Rajveer, Patil",3,254.0,131.6,3
+74,33389454,Blitz,"Modipalli, Deekshitha",2,253.2,158.0,2
+75,429017270,Blitz,"Lathik, Raam",9,252.66,56.4,8
+76,25755471,Blitz,"Vignesh, Kannan P",5,252.0,132.8,4
+77,25963236,Blitz,"Shree, Hari Palaniappa S",3,252.0,147.2,3
+78,25769995,Blitz,"Nishant, T.r.",9,251.12,65.6,7
+79,48770159,Blitz,"Laddad, Aadhavan Atish",3,250.4,152.4,3
+80,25774697,Blitz,"Sathwik, D S S U",4,248.79999999999998,139.6,4
+81,48747750,Blitz,"Revlin, Ram R H",2,248.0,132.4,2
+82,531019730,Blitz,"Praneeth, H S",10,246.4,76.8,8
+83,48774529,Blitz,"Jain, Medant",5,245.6,121.6,4
+84,366108182,Blitz,"Ar, Saisharvesh",6,243.7,153.6,4
+85,33377006,Blitz,"Sriansh, Sinha",7,242.08,146.0,5
+86,531019773,Blitz,"Sanjith, Bhat",10,241.5,81.6,8
+87,33302561,Blitz,"Dharsh, M",7,240.4,184.4,7
+88,25952900,Blitz,"Badole, Shaunak",4,239.60000000000002,84.4,4
+89,45015724,Blitz,"Daaevik, Wadhawan",6,239.2,135.2,6
+90,25183176,Blitz,"Shlok, Bhar",2,238.8,156.4,2
+91,88107574,Blitz,"Havish, U",2,238.4,156.0,1
+92,88123570,Blitz,"Shaurya, Chaudhary",11,238.10000000000002,118.4,8
+93,33363153,Blitz,"Vaishnav, S",2,238.0,157.2,2
+94,25972561,Blitz,"Mayukh, Majumder",4,236.85000000000002,114.4,3
+95,33483698,Blitz,"Paramesh, C K S",3,236.8,152.4,3
+96,25124498,Blitz,"Zid, Neo",4,236.0,163.6,4
+97,33420815,Blitz,"Aaron, Vazhakkottil",3,236.0,153.2,2
+98,33451621,Blitz,"Praneeshwar, Madhavan",5,235.32,145.92,4
+99,25924230,Blitz,"Yuvanesh, A",3,234.39999999999998,111.6,2
+100,25767682,Blitz,"Yashwant, B",5,234.2,105.6,4
